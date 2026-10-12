@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/f06ab602-3a48-4aa6-be18-636ad54742b9/studio-font-0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/e4107575-f88d-4d7e-9a8c-181e4356479f/studio-font-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/914c857f-765c-4c98-9fb9-787973f91a90/studio-font-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/eba1f3d1-f11e-49f3-ae57-ded1d30976b3/studio-font-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/edbc2f6e-f67a-40d4-87aa-281497c9ae20/studio-font-4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Great Vibes';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/b3a26cd0-059a-4658-9882-9425399b1128/studio-font-5.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/e742a030-f02f-47a8-8741-e6f2b3612299/studio-font-6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/0af29ad4-d072-468e-884f-e425481755ef/studio-font-7.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/465c5ba1-293b-424d-bfcc-8d7bc6043003/studio-font-8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/cf35d03d-e9d3-4d2b-ab06-c295c8a19c8f/studio-font-9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/__l5e/assets-v1/61d2055b-a814-4565-bc08-dc0f2f1e716a/studio-font-10.ttf) format('truetype');
+}
